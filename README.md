@@ -2,7 +2,7 @@
 
 This is part of Introduction To Game Theory course.
 
-Task is to find PSNE and very weakly dominant stratigies of an N-player game.
+Task is to find PSNE and very weakly dominant strategies of an N-player game.
 
 ## Input format:
 - First line containe 'N', an integer denoting number of players.
